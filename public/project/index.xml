@@ -13,27 +13,51 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
+      <title>Portfolio Page</title>
       <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A portfolio page showcases your skills, projects, and achievements in a visually appealing and organized way, serving as a digital resume. It highlights your expertise and creativity, helping you stand out to potential employers or clients.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
+      <title>Product landing</title>
+      <link>http://localhost:1313/project/product-landing/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/product-landing/</guid>
+      <description>&lt;p&gt;A product landing page is a focused webpage designed to showcase and promote a specific product or service. It highlights key features, benefits, and calls to action, aiming to engage visitors and encourage them to make a purchase or take further action.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Survey form</title>
+      <link>http://localhost:1313/project/survey-form/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/survey-form/</guid>
+      <description>&lt;p&gt;A survey form is a tool used to collect feedback, opinions, or data from individuals through a set of questions. It is designed to gather valuable insights, helping organizations make informed decisions and improve products, services, or experiences based on user input.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Technical Documentation page</title>
+      <link>http://localhost:1313/project/technical-documentation/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/technical-documentation/</guid>
+      <description>&lt;p&gt;A technical documentation page provides detailed information about a product, system, or software, explaining its features, functions, and usage. It serves as a comprehensive guide for users and developers, helping them understand how to implement, troubleshoot, and maintain the technology effectively.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tic-tac</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Tic Tac Toe is a simple and strategic two-player game where players take turns marking X or O on a 3x3 grid, aiming to align three symbols in a row, column, or diagonal to win. It combines fun and logic, making it a classic game enjoyed by people of all ages.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
       <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A tribute page is a dedicated webpage that honors and celebrates the life, achievements, and legacy of a person or an inspiring figure. It provides meaningful insights and highlights their contributions, serving as a heartfelt expression of admiration and respect.&lt;/p&gt;</description>
     </item>
     
   </channel>
